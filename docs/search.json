@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-05-01T15:02:17+10:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Ian Moran",
+      "description": "Functional programming, R package development and statistics \n",
+      "author": [],
+      "date": "01-05-2022",
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-05-01T15:02:18+10:00"
+    }
+  ],
+  "collections": []
+}

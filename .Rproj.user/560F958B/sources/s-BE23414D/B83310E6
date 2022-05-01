@@ -1,0 +1,27 @@
+{
+    "id": "B83310E6",
+    "path": "~/host-projects/blog/index.Rmd",
+    "project_path": "index.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1651381101828.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,7",
+        "scrollLine": "0",
+        "marks": "<:3,2\n>:3,2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1651381332,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1651381332861,
+    "read_only": false,
+    "read_only_alternatives": []
+}
